@@ -1,6 +1,6 @@
 # Beal-Conjecture-Counterexample-Search
 
-There is a currently unproven conjecture in number theory known as the 'Beal Conjecture'. It is a generalisation of Format's Last Theorem and can be stated as follows. There are no integer solutions to the equation
+There is a currently unproven conjecture in number theory known as the 'Beal Conjecture'. It is a generalisation of Fermat's Last Theorem and can be stated as follows. There are no positive integer solutions to the equation
 
 x^a + y^b = z^c
 
